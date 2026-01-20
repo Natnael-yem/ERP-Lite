@@ -1,0 +1,273 @@
+{
+    "english": {
+        "login": "Login",
+        "register": "Get Started Now",
+        "language": "en",
+        "phone": "Phone",
+        "giveServices": "Gave Services",
+        "team": "Professional team",
+        "customer": "Satisfied customers",
+        "rate": "Our success rate",
+        "loginTitle": "Online License Registration",
+        "signIn": "Sign In",
+        "tinNo": "Tin No",
+        "email": "Email Address",
+        "phoneError": "Phone number must start with 09 and be 10 digits long.",
+        "FullNameinEnglish": "Full Name in English",
+        "FullNameinAmharic": "Full Name in Amharic",
+        "password": "Password",
+        "forgetPassword": "Forget your Password?",
+        "registerTitle": "Registration Info",
+         "choose_service": "Choose Service",
+        "registerInfo": [
+            {
+                "name": "Do you have a Tax Identification Number ?",
+                "description": "In order to register you need to have a valid tax identification number issued by the Ministry of Revenue. If you have a tax identification number you can fill out the form and register After registration, you will get a confirmation code via SMS that will confirm your account."
+            },
+            {
+                "name": "When can you request a service?",
+                "description": "In order to request our services, you will need to attach the required documents that will help us verify your eligibility to get our online services.",
+                "button": "Required Documents"
+            },
+            {
+                "name": "Do you have a commercial registration ?",
+                "description": "In order to have a business license certificate you have to first get a Commercial Registration Certificate"
+            }
+        ],
+        "navbar": [
+            {
+                "name": "Home",
+                "link" : "/"
+            },
+            {
+                "name": "Features",
+                 "link" : "/news"
+            },
+            {
+                "name": "Services",
+                 "link" : "/search"
+            },
+            {
+                "name": "Pricing",
+                 "link" : "/vacancy"
+            }
+        ],
+        "nav": [
+            {
+                "name": "Intro"
+            },
+            {
+                "name": "About Us"
+            },
+            {
+                "name": "Services"
+            }
+        ],
+        "title": "Press",
+        "subTitle": "Addis Ababa City Government",
+        "sliderTitle": "Think Big, Spend Smart and Watch Your Wealth Grow",
+        "sliderSubTitle": "Money made simple. Budget smarter, save faster and crush your goals with tools that work as hard as you do. Your financial starts right here, right now.",
+        "aboutTitle": "About Us",
+        "aboutSubTitle": "Guba Technology",
+        "aboutDescription": "Guba ERPNext card with complete spend control.",
+        "aboutList": [
+            "Culture sector",
+            "Art sector ",
+            "Tourism sector"
+        ],
+        "aboutSubDescription": "Issue cards with fully adaptable limits to any employee in just a click. Custom approval policies,along with optional reviews of each transaction, gurantee real-time oversight and control over all card spend.",
+        "aboutMain": [
+            {
+                "image": "/assets/tourism/home/vision.png",
+                "description": [
+                    "Making Addis Ababa one of the top five tourist destinations and cultural centers in Africa in 2017 by creating a community that develops, preserves and visits cultural, artistic, natural, and historical resources."
+                ],
+                "name": "Vision",
+                "pic": "/assets/tourism/home/vision.png"
+            },
+            {
+                "image": "./mission.png",
+                "description": [
+                    "Ensure the benefit of the society by creating a transformed generation that loves, preserves, enriches and transforms the citys cultural, artistic natural and historical resources, making culture and art a major development force and promoting tourist attractions. To achieve this mission, the bureau will focus on public awareness and promotion activities to ensure the participation and benefit of the community."
+                ],
+                "name": "Mission",
+                "img": "/assets/tourism/home/name.png",
+                "pic": "/assets/tourism/home/missions.png"
+            },
+            {
+                "image": "/assets/tourism/home/values.png",
+                "name": "Values",
+                "pic": "/assets/tourism/home/values.png",
+                "description": [
+                    "Respecting diversity",
+                    "Hospitality",
+                    "Transparency",
+                    "Accountability",
+                    "Readiness for change",
+                    "Excellence in service",
+                    "Involving participation",
+                    "Upgrading occupational competency"
+                ]
+            }
+        ],
+        "serviceTitle": "Our Services",
+        "serviceSubTitle": "Major services provided by the Bureau",
+        "serviceDescription": "Addis Ababa Culture, Arts and Tourism Bureau has been given the following powers and functions in accordance with Proclamation No. 74/2014.",
+        "serviceButton": "Read More",
+        "newRegistration": {
+            "icon": "",
+            "description": "Customers must have a business registration certificate before requesting any services",
+            "title": "New Registration"
+        },
+        "registrationAmendment": {
+            "icon": "",
+            "description": "Customers can alter or amend their commercial registration",
+            "title": "Registration Amendment"
+        },
+        "registrationReplacement": {
+            "icon": "",
+            "description": "Any business person whose certificate of commercial registration is lost or damaged may obtain a substitute certificate",
+            "title": "Registration Replacement"
+        },
+        "footerLocationTitle": "Meskel Square ",
+        "footerLocationSubTitle": "Addis Ababa, Ethiopia",
+        "footerMain": [
+            {
+                "name": "Useful Links",
+                "list": [
+                    "Home",
+                    "About us",
+                    "Services",
+                    "Terms of service",
+                    "Privacy policy"
+                ]
+            },
+            {
+                "name": "Services",
+                "list": [
+                    "Shipping Permit",
+                    "Information and Support Desk",
+                    "Shipping Registration",
+                    "Inquiries"
+                ]
+            }
+        ],
+        "banner": "Login and Get Started right now.",
+        "general_name": "General",
+        "service_name": "Service",
+        "manager_name": "አስተዳዳሪ",
+        "employees_name": "Employees",
+        "attachments_name": "አባሪዎች",
+        "registertaion": "New Registration",
+        "info": "Information Form",
+        "General": [
+            {
+                "institution_name": "አገልግሎት ሰጪው ስም",
+                "institution_name_error": "Institution name is required",
+                "institution_name_amharic": "አገልግሎት ሰጪው ስም በአማርኛ",
+                "institution_name_amharic_error": "Institution name In Amharic is required",
+                "institution_sub_city": "ክ/ከተማ",
+                "institution_sub_city_error": "Institution Sub city is required",
+                "institution_woreda": "ወረዳ",
+                "institution_woreda_error": "Institution Woreda is required.",
+                "house_no": "የቤት.ቁ",
+                "house_no_error": "Institution House No is required",
+                "institution_office_phone": "የቤት ስልክ",
+                "institution_office_phone_error": "Institution Office No is required",
+                "institution_mobile_phone": "ሞባይል",
+                "institution_mobile_phone_error": "Institution Mobile No is required",
+                "institution_email": "ኢ-ሜይል",
+                "institution_email_error": "Email is required",
+                "institution_email_error2": "Enter a valid email address",
+                "main_category": "የአገልግሎት ዘርፍ",
+                "main_category_error": "Main category is required",
+                "sub_category": "የአገልግሎት ንዑስ ዘርፍ",
+                "sub_category_error": "Sub category is required",
+                "sub_sub_category": "የአገልግሎት ንዑስ ክፍል",
+                "sub_sub_category_error": "Sub sub category is required",
+                "address": "የድርጅቱ አድራሻ",
+                "info": "የድርጅቱ መረጃ",
+                "sector": "የብቃት ማረጋገጫ የተጠየቀበት የአገልግሎት ዘርፍ",
+                "": "",
+                "": "",
+                "": "",
+                "": ""
+            }
+        ],
+        "Service": [
+            {
+                "owner_info": "ባለንብረቱ መረጃ",
+                "manager_info": "የስራ አስኪያጅ መረጃ",
+                "owner_name": "የባለንብረቱ ሙለ ስም",
+                "owner_name_error": "የባለንብረቱ ሙለ ስም ይሙሉ",
+                "owner_sub_city": "ክ/ከተማ",
+                "owner_sub_city_error": "ክ/ከተማ ይሙሉ",
+                "owner_woreda": "ወረዳ",
+                "owner_woreda_error": "ወረዳ ይሙሉ",
+                "owner_house_no": "የቤት.ቁ",
+                "owner_house_no_error": "የቤት.ቁ ይሙሉ",
+                "owner_office_phone": "የቤት ስልክ",
+                "owner_office_phone_error": "የቤት ስልክ ይሙሉ",
+                "owner_mobile_phone": "ሞባይል",
+                "owner_mobile_phone_error": "ሞባይል ይሙሉ",
+                "owner_post_number": "ፖስታ",
+                "owner_post_number_error": "ፖስታ ይሙሉ",
+                "manager_name": "የስራ አስኪያጅ ስም",
+                "manager_name_error": "የስራ አስኪያጅ ስም ይሙሉ",
+                "manager_sub_city": "ክ/ከተማ",
+                "manager_sub_city_error": "ክ/ከተማ ይሙሉ",
+                "manager_woreda": "ወረዳ",
+                "manager_woreda_error": "ወረዳ ይሙሉ",
+                "manager_house_no": "የቤት.ቁ",
+                "manager_house_no_error": "የቤት.ቁ ይሙሉ",
+                "manager_phone_number": "ሞባይል",
+                "manager_phone_number_error": "ሞባይል ይሙሉ",
+                "manager_email": "ኢ-ሜይል",
+                "manager_email_error": "ኢ-ሜይል ይሙሉ",
+                "manager_email_error2": "ትክክለኛ ኢ-ሜይል ይሙሉ",
+                "employment_type": "የቅጥር ሁኔታ",
+                "employment_type_error": "የቅጥር ሁኔታ ይሙሉ",
+                "manager_education_level": "የትምህርት ደረጃ",
+                "manager_education_level_error": "የትምህርት ደረጃ ይሙሉ",
+                "work_experience": "የስራ ልምድ",
+                "work_experience_error": "የስራ ልምድ ይሙሉ"
+            }
+        ],
+        "Employee": [
+            {
+                "employee_Title": "የሰራተኛ ጠቅላላ ብዛትና የትምህርት ደረጃ",
+                "masters": "ማስተርስ",
+                "male_masters_error": "ወንድ ማስተርስ ይሙሉ",
+                "male": "ወንድ",
+                "female": "ሴት",
+                "degree": "የመጀመሪያ ዲግሪ",
+                "diploma": "ዲፕሎማ",
+                "certficate": "ሰርተፍኬት",
+                "below_12": "10ኛ ወይም 12ኛ ክፍል እና ከዚያ በታች"
+            }
+        ],
+        "complaint": "Complaint",
+        "Feedback": [
+            {
+                "complainant_institution_name": "የቅሬታ አቅራቢው  ተቋም ስም",
+                "complainant_institution_name_error": "የቅሬታ አቅራቢው  ተቋም ስም ይሙሉ",
+                "complainant_institution_subcity": "ክ/ከተማ",
+                "complainant_institution_subcity_error": "ክ/ከተማ ይሙሉ",
+                "complainant_institution_woreda": "ወረዳ",
+                "complainant_institution_woreda_error": "ወረዳ ይሙሉ",
+                "complainant_institution_house_no": "የቤት.ቁ",
+                "complainant_institution_house_no_error": "የቤት.ቁ ይሙሉ",
+                "complainant_institution_mobile": "ሞባይል",
+                "complainant_institution_mobile_error": "ሞባይል ይሙሉ",
+                "complainant_institution_email": "ኢ-ሜይል",
+                "complainant_institution_email_error": "ኢ-ሜይል ይሙሉ",
+                "complainant_institution_phone": "የቢሮ ሰልክ",
+                "complainant_institution_phone_error": "የቢሮ ሰልክ ይሙሉ",
+                "complainant_institution_website": "ድረ ገጽ",
+                "complainant_institution_website_error": "ድረ ገጽ ይሙሉ",
+                "complaint_summary": "ቅሬታ የቀረበበትን ጉዳይ/ ምክያት ባጭሩ",
+                "complaint_summary_error": "ጉዳይ/ ምክያት ባጭሩ ይሙሉ"
+            }
+        ]
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "amharic": {
+        "login": "ይግቡ",
+        "register": "ይመዝገቡ",
+        "language": "en",
+        "phone": "ስልክ ቁጥር",
+        "giveServices": "የተሰጡ አገልግሎቶች",
+        "team": "ባለሙያ ቡድን",
+        "customer": "ደስተኛ ተገልጋዮች",
+        "rate": "ስኬት መጠን",
+        "loginTitle": "ኦንላይን የፈቃድ ምዝገባ",
+        "signIn": "Sign In",
+        "tinNo": "ቲን ቁጥር",
+        "email": "ኢሜይል ",
+        "phoneError": "ስልክ ቁጥሩ ከ 09 ጀምሮ እና 10 ዲጂት ርዝመት ያለው መሆን አለበት።",
+        "FullNameinEnglish": "ሙሉ ስም በእንግሊዝኛ",
+        "FullNameinAmharic": "ሙሉ ስም በአማርኛ",
+        "password": " የይለፍ ቃል",
+        "forgetPassword": "የይለፍ ቃልዎን ረሱ?",
+        "registerTitle": "የምዝገባ መረጃ",
+        "choose_service": "እባክዎ የሚፈልጉትን አገልግሎት ይምረጡ",
+        "registerInfo": [
+            {
+                "name": "የግብር ከፋይ መለያ ቁጥር አለዎት?",
+                "description": "ለመመዝገብ ከገቢዎች ሚኒስቴር የተሰጠ ትክክለኛ የግብር ከፋይ መለያ ቁጥር ሊኖርዎት ይገባል ግብር መክፈያ ቁጥር ካለዎት ቅጹን በመሙላት መመዝገብ ይችላሉ ከምዝገባ በኋላ መለያዎን የሚያረጋግጥ አጭር ጽሁፍ በተንቀሳቃሽ ስልኮ እና በኢሜይሎ በኩል የማረጋገጫ ኮድ ያገኛሉ፡፡"
+            },
+            {
+                "name": "አገልግሎት ለማግኘት ምን ምን ማማላት አለብኝ?",
+                "description": "ከተመዘገቡ በኋላ ለሙያ ብቃት ለማረጋገጥ የሚረዱንን አስፈላጊ ሰነዶችን ማያያዝ ይጠበቅቦታል",
+                "button": "አስፈላጊ ሰነዶች"
+            }
+        ],
+        "navbar": [
+            {
+                "name": "መነሻ",
+                "link": "/"
+            },
+            {
+                "name": "ዜና",
+                "link": "/news"
+            },
+            {
+                "name": "ማጣሪያ",
+                "link": "/search"
+            },
+            {
+                "name": "ስራ",
+                "link": "/vacancy"
+            }
+        ],
+        "nav": [
+            {
+                "name": "መግቢያ"
+            },
+            {
+                "name": "ሰለ እኛ"
+            },
+            {
+                "name": "አገልግሎቶች"
+            }
+        ],
+        "title": "ባህል፣ ኪነ ጥበብ እና ቱሪዝም ቢሮ",
+        "subTitle": "አዲስ አበባ ከተማ አስተዳደር",
+        "sliderTitle": "የባህል፣ ኪነ-ጥበብና ቱሪዝም የሙያ ብቃት ማረጋገጫ መረብ",
+        "sliderSubTitle": "እባክዎ አገልግሎት ለማግኘት “ይግቡ” የሚለውን ቁልፍ ይጫኑና የባህል፣ ኪነ-ጥበብና ቱሪዝም የሙያ ብቃት ማረጋገጫ የምስክር ወረቀት ይወሰዱ።",
+        "aboutTitle": "ሰለ እኛ ",
+        "aboutSubTitle": "ባህል፣ ኪነ ጥበብ እና ቱሪዝም ቢሮ",
+        "aboutDescription": "የአዲስ አበባ ከተማ አስተዳደር ባህል፣ኪነ-ጥበብና ቱሪዝም ቢሮ ግንቦት ወር 2000 ዓ.ም.የከተማ አስተዳደሩን አስፈፃሚ አካላት ለማቋቋም በተዘጋጀው አዋጅ መሰረት የባህልና ቱሪዝም ቢሮ በሚል ስያሜ የተቋቋመ ነዉ፡፡",
+        "aboutList": [
+            "ባህል ዘርፍ ",
+            "ኪነጥበብ ዘርፉ",
+            "ቱሪዝም ዘርፉ"
+        ],
+        "aboutSubDescription": "በዚህም የባህል ዘርፉ ከባህልና ማስታወቂያ ቢሮ የቱሪዝም ዘርፉ ደግሞ ከንግድና እንዱስትሪ ቢሮ ተለይተዉ በአንድ ላይ 17 የሰዉ ኃይል ይዞ እንዲደራጁ ተደርጓል፡፡",
+        "aboutMain": [
+            {
+                "image": "/assets/tourism/home/vision.png",
+                "description": [
+                    "ባህላዊ ፣ ኪነ-ጥበባዊ፣ ተፈጥሯዊ፣ እና ታሪካዊ ሀብቶችን የሚያለማ፣ የሚንከባከብና የሚጎበኝ ህብረተሰብ በመፍጠር በ2017 ዓ.ም አዲስ አበባን ተመራጭ ከሆኑ አምስት የአፍሪካ ዋና ዋና የቱሪስት መዳረሻዎች እና የባህል ማዕከላት መካከል አንዷማድረግ፣"
+                ],
+                "name": "ራዕይ",
+                "pic": "/assets/tourism/home/vision.png"
+            },
+            {
+                "image": "/assets/tourism/home/mission.png",
+                "description": [
+                    "የከተማዋን ባህላዊ፣ ኪነ-ጥበባዊ ተፈጥሯዊ እና ታሪካዊ ሀብቶች የሚወድ፣ የሚጠብቅ፣ የሚያበለፅግና ወደ ልማት የሚቀይር የተለወጠ ትውልድ በመፍጠር ባህልና ኪነ-ጥበብን ዋንኛ የልማት ሀይል በማድረግ እና የቱሪስት መሰህቦችን በማስተዋወቅ የህብረተሰቡን ተጠቃሚነት ማረጋገጥ ነው፡፡ ይህን ተልዕኮ ለማሳካት ቢሮው ለህብረተሰቡ ግንዛቤ የማስጨበጥ ሥራና የፕሮሞሽን ሥራን የህብረተሰቡን ተሳትፎና ተጠቃሚነት ከማረጋገጥ አንፃር ትኩረት ሰጥቶ ይሰራል፡"
+                ],
+                "name": "ተልዕኮ",
+                "img": "/assets/tourism/home/name.png",
+                "pic": "/assets/tourism/home/missions.png"
+            },
+            {
+                "image": "/values.png",
+                "name": " እሴቶች",
+                "pic": "/assets/tourism/home/values.png",
+                "description": [
+                    "ብዝሃነትን ማክበር",
+                    "እንግዳ ተቀባይነት",
+                    "ግልጽነት",
+                    "ተጠያቂነት",
+                    "ለለውጥ ዝግጁነት",
+                    "የላቀ አገልግሎት",
+                    "አሳታፊነት",
+                    "ሙያዊ ብቃትን ማሳደግ"
+                ]
+            }
+        ],
+        "serviceTitle": "አገልግሎቶቻችን",
+        "serviceSubTitle": "በባህል፣ኪነ-ጥበብና ቱሪዝም ቢሮ የሚሰጡ የሴክተር ዋና ዋና አገልግሎቶች፣",
+        "serviceDescription": "የአዲስ አበባ ከተማ አስተዳደር ባህል፣ ኪነ-ጥበብና ቱሪዝም ቢሮ ከዚህ ቀጥሎ የተዘረዘሩትን ዋና ዋና ሥልጣንና ተግባራት አሉት፡፡",
+        "serviceButton": "ተጨማሪ መረጃ",
+        "newRegistration": {
+            "icon": "",
+            "description": "ደንበኞች ማንኛውንም አገልግሎት ከመጠየቃቸው በፊት ማማላት ያለበት ሊያማላ ይገባል",
+            "title": "አዲስ የሙያ ብቃት ማረጋገጫ"
+        },
+        "registrationAmendment": {
+            "icon": "",
+            "description": "ደንበኞች የሙያ ብቃት ማረጋገጫ ማደስ ይችላሉ",
+            "title": "የሙያ ብቃት ማረጋገጫ እድሳት"
+        },
+        "registrationReplacement": {
+            "icon": "",
+            "description": "የሙያ ብቃት ማረጋገጫ የጠፋበት ወይም የተበላሸበት ደንበኛ ምትክ የሙያ ብቃት ማረጋገጫ የምስክር ወረቀት ማግኘት ይችላል",
+            "title": "የየሙያ ብቃት ማረጋገጫ ምትክ"
+        },
+        "footerLocationTitle": "መስቀል አደባባይ",
+        "footerLocationSubTitle": "አዲስ አበባ፣ ኢትዮጵያ",
+        "footerMain": [
+            {
+                "name": "ጠቃሚ ገፆች",
+                "list": [
+                    "መነሻ",
+                    "ስለኛ",
+                    "አገልግሎቶች",
+                    "የአጠቃቀም ፖሊሲ",
+                    "የግለኝነት መብት"
+                ]
+            },
+            {
+                "name": "ማስፈንጠሪያዎች",
+                "list": [
+                    "የመላክያ ፈቃድ",
+                    "የመረጃ እና ድጋፍ ዴስክ",
+                    "የመላክያ ምዝገባ",
+                    "ጥያቄዎች"
+                ]
+            }
+        ],
+        "banner": "እዚህ በማመልከት ፈቃድዎን ያመልክቱ እና ያግኙ",
+        "general_name": "አጠቃላይ",
+        "service_name": "አገልግሎት",
+        "manager_name": "አስተዳዳሪ",
+        "employees_name": "ሰራተኞች",
+        "registertaion": "አዲስ ምዝገባ ",
+        "info_form": "የመረጃ ቅፅ",
+        "info": "መረጃ",
+        "attachments_name": "አባሪዎች",
+        "General": [
+            {
+                "institution_name": "አገልግሎት ሰጪው ስም",
+                "institution_name_error": "የአገልግሎት ሰጪው ስም ይሙሉ",
+                "institution_name_amharic": "አገልግሎት ሰጪው ስም በአማርኛ",
+                "institution_name_amharic_error": "የአገልግሎት ሰጪው ስም በአማርኛ ይሙሉ",
+                "institution_sub_city": "ክ/ከተማ",
+                "institution_sub_city_error": "ክ/ከተማ ይሙሉ",
+                "institution_woreda": "ወረዳ",
+                "institution_woreda_error": "ወረዳ ይሙሉ",
+                "house_no": "የቤት.ቁ",
+                "house_no_error": "የቤት.ቁ ይሙሉ",
+                "institution_office_phone": "የቤት ስልክ",
+                "institution_office_phone_error": "የቤት ስልክ ይሙሉ",
+                "institution_mobile_phone": "ሞባይል",
+                "institution_mobile_phone_error": "ሞባይል ይሙሉ",
+                "institution_email": "ኢ-ሜይል",
+                "institution_email_error": "ኢ-ሜይል ይሙሉ",
+                "institution_email_error2": "ትክክለኛ ኢ-ሜይል ይሙሉ",
+                "main_category": "የአገልግሎት ዘርፍ",
+                "main_category_error": "የአገልግሎት ዘርፍ ይሙሉ",
+                "sub_category": "የአገልግሎት ንዑስ ዘርፍ",
+                "sub_category_error": "የአገልግሎት ንዑስ ዘርፍ ይሙሉ",
+                "sub_sub_category": "የአገልግሎት ንዑስ ክፍል",
+                "sub_sub_category_error": "የአገልግሎት ንዑስ ክፍል ይሙሉ",
+                "address": "የድርጅቱ አድራሻ",
+                "info": "የድርጅቱ መረጃ",
+                "sector": "የብቃት ማረጋገጫ የተጠየቀበት የአገልግሎት ዘርፍ",
+                "": "",
+                "": "",
+                "": "",
+                "": ""
+            }
+        ],
+        "Service": [
+            {
+                "owner_info": "ባለንብረቱ መረጃ",
+                "manager_info": "የስራ አስኪያጅ መረጃ",
+                "owner_name": "የባለንብረቱ ሙለ ስም",
+                "owner_name_error": "የባለንብረቱ ሙለ ስም ይሙሉ",
+                "owner_sub_city": "ክ/ከተማ",
+                "owner_sub_city_error": "ክ/ከተማ ይሙሉ",
+                "owner_woreda": "ወረዳ",
+                "owner_woreda_error": "ወረዳ ይሙሉ",
+                "owner_house_no": "የቤት.ቁ",
+                "owner_house_no_error": "የቤት.ቁ ይሙሉ",
+                "owner_office_phone": "የቤት ስልክ",
+                "owner_office_phone_error": "የቤት ስልክ ይሙሉ",
+                "owner_mobile_phone": "ሞባይል",
+                "owner_mobile_phone_error": "ሞባይል ይሙሉ",
+                "owner_post_number": "ፖስታ",
+                "owner_post_number_error": "ፖስታ ይሙሉ",
+                "manager_name": "የስራ አስኪያጅ ስም",
+                "manager_name_error": "የስራ አስኪያጅ ስም ይሙሉ",
+                "manager_sub_city": "ክ/ከተማ",
+                "manager_sub_city_error": "ክ/ከተማ ይሙሉ",
+                "manager_woreda": "ወረዳ",
+                "manager_woreda_error": "ወረዳ ይሙሉ",
+                "manager_house_no": "የቤት.ቁ",
+                "manager_house_no_error": "የቤት.ቁ ይሙሉ",
+                "manager_phone_number": "ሞባይል",
+                "manager_phone_number_error": "ሞባይል ይሙሉ",
+                "manager_email": "ኢ-ሜይል",
+                "manager_email_error": "ኢ-ሜይል ይሙሉ",
+                "manager_email_error2": "ትክክለኛ ኢ-ሜይል ይሙሉ",
+                "employment_type": "የቅጥር ሁኔታ",
+                "employment_type_error": "የቅጥር ሁኔታ ይሙሉ",
+                "manager_education_level": "የትምህርት ደረጃ",
+                "manager_education_level_error": "የትምህርት ደረጃ ይሙሉ",
+                "work_experience": "የስራ ልምድ",
+                "work_experience_error": "የስራ ልምድ ይሙሉ"
+            }
+        ],
+        "Employee": [
+            {
+                "employee_Title": "የሰራተኛ ጠቅላላ ብዛትና የትምህርት ደረጃ",
+                "masters": "ማስተርስ",
+                "male_masters_error": "ወንድ ማስተርስ ይሙሉ",
+                "male_degree_error": "ወንድ ዲግሪ ይሙሉ",
+                "male_diploma_error": "ወንድ ዲፕሎማ ይሙሉ",
+                "male_certificate_error": "ወንድ ሰርተፍኬት ይሙሉ",
+                "male_below_12_error": "ወንድ 10ኛ ወይም 12ኛ ክፍል እና ከዚያ በታች ይሙሉ",
+                "male": "ወንድ ብዛት",
+                "female_masters_error": "ሴት ማስተርስ ይሙሉ",
+                "female_degree_error": "ሴት ዲግሪ ይሙሉ",
+                "female_diploma_error": "ሴት ዲፕሎማ ይሙሉ",
+                "female_certificate_error": "ሴት ሰርተፍኬት ይሙሉ",
+                "female_below_12_error": "ሴት 10ኛ ወይም 12ኛ ክፍል እና ከዚያ በታች ይሙሉ",
+                "female": "ሴት ብዛት",
+                "degree": "የመጀመሪያ ዲግሪ",
+                "diploma": "ዲፕሎማ",
+                "certficate": "ሰርተፍኬት",
+                "below_12": "10ኛ ወይም 12ኛ ክፍል እና ከዚያ በታች"
+            }
+        ],
+        "complaint": "ቅሬታ",
+        "Feedback": [
+            {
+                "complainant_institution_name": "የቅሬታ አቅራቢው  ተቋም ስም",
+                "complainant_institution_name_error": "የቅሬታ አቅራቢው  ተቋም ስም ይሙሉ",
+                "complainant_institution_subcity": "ክ/ከተማ",
+                "complainant_institution_subcity_error": "ክ/ከተማ ይሙሉ",
+                "complainant_institution_woreda": "ወረዳ",
+                "complainant_institution_woreda_error": "ወረዳ ይሙሉ",
+                "complainant_institution_house_no": "የቤት.ቁ",
+                "complainant_institution_house_no_error": "የቤት.ቁ ይሙሉ",
+                "complainant_institution_mobile": "ሞባይል",
+                "complainant_institution_mobile_error": "ሞባይል ይሙሉ",
+                "complainant_institution_email": "ኢ-ሜይል",
+                "complainant_institution_email_error": "ኢ-ሜይል ይሙሉ",
+                "complainant_institution_phone": "የቢሮ ሰልክ",
+                "complainant_institution_phone_error": "የቢሮ ሰልክ ይሙሉ",
+                "complainant_institution_website": "ድረ ገጽ",
+                "complainant_institution_website_error": "ድረ ገጽ ይሙሉ",
+                "complaint_summary": "ቅሬታ የቀረበበትን ጉዳይ/ ምክያት ባጭሩ",
+                "complaint_summary_error": "ጉዳይ/ ምክያት ባጭሩ ይሙሉ"
+            }
+        ],
+        "navlist" :[
+            { "name" : "Dashboard", "route" : "/dashboard", "icon": "<LuLayoutDashboard />"
+            },
+            {
+            "name": "Commercial Registration",
+            "icon": "<TfiWrite />",
+            "sub": [
+                    { "subRoute": "/new_registration", "name": "New Commercial Registration"
+                    },
+                    { "subRoute": "/new_profession", "name": "New Profession Registration"
+                    }
+                ]
+            },
+            {
+            "name": "Business License",
+            "icon": "< PiCertificate />",
+            "sub": [
+                    { "subRoute": "/license", "name": "License"
+                    },
+                    { "subRoute": "/addproduct", "name": "Amend Business License"
+                    },
+                    { "subRoute": "/categorylist", "name": "Business License Renewal"
+                    },
+                    { "subRoute": "/addproduct", "name": "Replace Business License"
+                    },
+                    { "subRoute": "/addproduct", "name": "Cancel Business License"
+                    }
+                ]
+            },
+            { "name": "Feedback", "route": "/feedback", "icon": "<HiOutlineCalendarDateRange />"
+            },
+            { "name": "Appointment", "route": "/appointment", "icon": "<BsCalendar2Event />"
+            }
+        ]
+    }
+}
