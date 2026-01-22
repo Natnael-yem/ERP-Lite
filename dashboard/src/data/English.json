@@ -18,7 +18,7 @@
         "password": "Password",
         "forgetPassword": "Forget your Password?",
         "registerTitle": "Registration Info",
-         "choose_service": "Choose Service",
+        "choose_service": "Choose Service",
         "registerInfo": [
             {
                 "name": "Do you have a Tax Identification Number ?",
@@ -37,19 +37,19 @@
         "navbar": [
             {
                 "name": "Home",
-                "link" : "/"
+                "link": "/"
             },
             {
                 "name": "Features",
-                 "link" : "/news"
+                "link": "/"
             },
             {
                 "name": "Services",
-                 "link" : "/search"
+                "link": "/"
             },
             {
                 "name": "Pricing",
-                 "link" : "/vacancy"
+                "link": "/"
             }
         ],
         "nav": [
@@ -68,8 +68,8 @@
         "sliderTitle": "Think Big, Spend Smart and Watch Your Wealth Grow",
         "sliderSubTitle": "Money made simple. Budget smarter, save faster and crush your goals with tools that work as hard as you do. Your financial starts right here, right now.",
         "aboutTitle": "About Us",
-        "aboutSubTitle": "Guba Technology",
-        "aboutDescription": "Guba ERPNext card with complete spend control.",
+        "aboutSubTitle": "teleERP Lite",
+        "aboutDescription": "tele ERP card with complete spend control.",
         "aboutList": [
             "Culture sector",
             "Art sector ",

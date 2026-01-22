@@ -66,10 +66,10 @@ const AboutUs = () => {
                         viewport={{ once: true, amount: 0.2 }}
                         layout
                         transition={{ duration: 2, ease: "easeOut" }}
-                        className="flex lg:w-[40%] w-[70%] mx-auto z-10 ">
-                        <img src="/assets/landing/dashboard/dash.jpg" alt="about" className="z-20 2xl:w-[90%] w-[30rem] 2xl:h-[85%] md:h-[28rem] object-cover rounded-2xl" />
+                        className="flex lg:w-[40%] w-[70%] mx-auto z-10 lg:h-[22rem]">
+                        <img src="/assets/landing/dashboard/dash.png" alt="about" className="border border-gray-600 z-20 2xl:w-[100%] w-[30rem] 2xl:h-[95%] md:h-[28rem] object-cover rounded-2xl p-2" />
                         <img src="/assets/landing/dashboard/Rshape.jpg" alt="shape" className="rounded-2xl opacity-50 ml-8 absolute mt-[-2.2rem] 2xl:w-[34.5rem] w-[30rem] 2xl:h-[24rem] md:h-[27rem] sm:h-[20rem] h-[15rem]" />
-                        <img src="/assets/landing/dashboard/dash.webp" alt="about" className="absolute z-30 md:w-[17rem] sm:w-[17rem] w-[10rem] md:h-[14rem] sm:h-[14rem] h-[8rem] md:mt-[15rem] sm:mt-[9rem] mt-[50%] sm:ml-[-3rem] ml-[-2rem] p-2 object-cover rounded-2xl" />
+                        <img src="/assets/landing/dashboard/dash2.png" alt="about" className="border border-gray-600 absolute z-30 md:w-[90%] sm:w-[17rem] w-[10rem] md:h-[14rem] sm:h-[14rem] h-[8rem]  sm:mt-[9rem] mt-[50%] sm:ml-[-3rem] ml-[-2rem] p-2 object-cover rounded-2xl" />
                     </motion.div>
                     <motion.div
                         initial={{ x: initialXR }}

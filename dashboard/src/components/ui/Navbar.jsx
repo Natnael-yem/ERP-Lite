@@ -5,17 +5,18 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import { IoClose } from "react-icons/io5";
 import Amharic from '../../data/Amharic.json';
 import English from '../../data/English.json';
+import { Link } from 'react-scroll';
 const Navbar = ({ setLang, lang }) => {
     // console.log(Amharic.amharic.login)
-   
+
     const [langCheck, setLangCheck] = useState(false);
     const [menu, setMenu] = useState(false);
     const LangSelect = localStorage.getItem('Language');
     const Language = LangSelect === 'አማርኛ' ? Amharic.amharic : English.english;
-     const [nav, setNav] = useState(Language?.navbar[0]?.name || 'Home');
+    const [nav, setNav] = useState(Language?.navbar[0]?.name || 'Home');
     const navigate = useNavigate();
     const handleNav = () => {
-         window.location.href = '/dashboard/login';
+        window.location.href = '/dashboard/login';
     };
     const handleMenu = () => {
         setMenu(!menu);
@@ -50,7 +51,7 @@ const Navbar = ({ setLang, lang }) => {
         <Flex className='my-8 h-[4.5rem]  bg-gradient-to-b from-white to-100%  to-white/40 rounded-3xl w-[70%] mx-auto border-r border-l border-gray-300'>
             <Flex className='items-center justify-between lg:pl-[6%] w-[95%] '>
                 <Flex className='items-center  space-x-2'>
-                    <img src="/assets/landing/dashboard/guba2.png" alt="logo" className='lg:h-[3.5rem] h-[3.4rem] py-2' />
+                    <img src="/assets/landing/dashboard/logos.png" alt="logo" className='lg:h-[3.5rem] h-[3.4rem] py-2' />
                     {/* <img src="./name.png" alt="logo" className='lg:h-[3.5rem] h-[3rem]' /> */}
                     <Flex className='sm:flex hidden flex-col items-center pt-3'>
                         {/* <p className='md:text-[1rem] text-[0.95rem] font-bold'>{Language?.title}</p> */}
@@ -59,15 +60,18 @@ const Navbar = ({ setLang, lang }) => {
                 </Flex>
                 <Flex className='items-center '>
                     <Flex className='md:flex hidden p-4  items-center space-x-8 rounded-lg '>
-                        {Language?.navbar?.map((item) =>
+                        {Language?.navbar?.map((item, index) =>
                             <>
                                 <Flex className={`${nav === item?.name ? "text-black/90" : 'text-black/70'} flex-col items-center space-y-2 cursor-pointer`}>
-                                    <p className=' text-[1.05rem]' onClick={() => handleScroll(item?.name)}>{item?.name}</p>
-                                    {nav === item?.name &&
+                                    {/* <p className=' text-[1.05rem]' onClick={() => handleScroll(item?.name)}>{item?.name}</p> */}
+                                    <Link to={`section${index + 1}`} duration={500} smooth={true} key={index} className={` text-[1.05rem]`}>
+                                        <p>{item?.name}</p>
+                                    </Link>
+                                    {/* {nav === item?.name &&
                                         <Flex className='justify-center'>
                                             <span className='h-[2px] w-10 bg-[#015FC9] z-10 dm-sans-bold' />
                                         </Flex>
-                                    }
+                                    } */}
                                 </Flex>
                             </>
                         )}
@@ -83,7 +87,7 @@ const Navbar = ({ setLang, lang }) => {
                 <Flex className='items-center space-x-3'>
                     {/* <FaPhoneFlip className='text-[#0CE0FF] border rounded-full p-3 text-[3.2rem]' /> */}
                     <Flex className='flex space-x-5 cursor-pointer items-center sm:flex hidden'>
-                        <p className='font-bold' onClick={() => setLangCheck(!langCheck)}>{selectLang}</p>
+                        {/* <p className='font-bold' onClick={() => setLangCheck(!langCheck)}>{selectLang}</p> */}
                         <p className='font-bold cursor-pointer lg:inline md:hidden sm:flex hidden' onClick={handleNav}>{Language.login}</p>
                     </Flex>
                     {langCheck &&

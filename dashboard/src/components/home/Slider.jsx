@@ -27,7 +27,7 @@ const Silder = () => {
     const swiperRef = useRef(null);
     const [activeIndex, setActiveIndex] = useState(0);
     return (
-        <Element name="section1" className="flex flex-col space-y-20 bg-gradient-to-b from-[#21A9FF] to-100%  to-white">
+        <Element name="section1" className="flex flex-col space-y-20 bg-gradient-to-b from-[#8DC63F] to-100%  to-white">
             <Flex className='h-[30rem] overflow-hidden items-end'>
                 <Flex className='w-[100%] flex-col items-center  z-40 space-y-6'>
                     <Flex className="text-center">
@@ -66,8 +66,8 @@ const Silder = () => {
             </Flex>
             <Flex className="mb-6 relative z-30 w-[70%] mx-auto  bg-white/20 backdrop-blur border-r border-l border-gray-300  p-6 rounded-xl">
                 <span className="absolute top-0 right-1  w-[100%] h-[1.2px]  bg-gradient-to-l from-transparent  via-gray-300 via-10% to-transparent" />
-                <Flex className="h-[38rem] w-[100%]">
-                    <img src="/assets/landing/dashboard/dash.jpg" alt="1" className="z-10 object-cover w-[100%] rounded-xl" />
+                <Flex className="h-[29rem] w-[100%]">
+                    <img src="/assets/landing/dashboard/dash.png" alt="1" className="z-10 object-cover w-[100%] rounded-xl" />
                 </Flex>
                 {/* <span className="absolute bottom-0  left-1   w-[100%] h-[1px]  bg-gradient-to-r from-transparent  via-gray-300  via-10% to-transparent" /> */}
                 <span className="absolute bottom-[0rem] z-30 left-[0rem] w-[100%] h-[30rem]  bg-gradient-to-t from-white to-transparent" />
