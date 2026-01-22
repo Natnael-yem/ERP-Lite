@@ -57,15 +57,15 @@ const Footer = () => {
                     <Flex className="grid md:grid-cols-3 grid-cols-2 lg:gap-8 gap-4 space-x-5 text-white justify-around sm:pt-[4rem] py-[1.5rem] lg:w-[40%] w-[90%]">
                         <Flex className="flex-col space-y-2">
                             <Flex className="flex-col sm:space-x-4">
-                                <p className="sm:text-[1rem] text-gray-400">{Language?.register}</p>
+                                <p className="sm:text-[1rem] text-gray-400">email</p>
                                 <Flex className="flex-col space-y-3">
                                     <p className="hover:text-[#FA9419]">994@ethioet.et</p>
                                 </Flex>
                             </Flex>
                             <Flex className="flex-col sm:space-x-4">
-                                <p className="sm:text-[1rem] text-gray-400">251-994 or +251-980</p>
+                                <p className="sm:text-[1rem] text-gray-400">{Language?.phone}</p>
                                 <Flex className="flex-col space-y-3">
-                                    <p>+251 111 12 64 05</p>
+                                    <p>251-994 or +251-980</p>
                                 </Flex>
                             </Flex>
                         </Flex>

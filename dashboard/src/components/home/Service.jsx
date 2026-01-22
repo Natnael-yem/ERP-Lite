@@ -113,7 +113,7 @@ const Service = () => {
                         <p className="text-gray-600 text-[1.1rem]">{Language?.serviceDescription}</p>
                     </Flex>
                 </Flex> */}
-                <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                {/* <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                     <div className="w-[100%] rounded-2xl">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.5985557365607!2d38.7621756943472!3d9.009035881643486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b8500099b15a9%3A0xda9fe5eb92cfb33a!2z4Yuo4Yqg4Yuy4Yi1IOGKoOGJoOGJoyDhiaPhiIXhiI3hjaMg4Yqq4YqQIOGMpeGJoOGJpeGKkyDhibHhiKrhi53hiJ0g4Ymi4YiuLUFkZGlzIEFiYWJhIEN1bHR1cmUsIEFydHMgJlRvdXJpc20gQnVyZWF1!5e0!3m2!1sen!2set!4v1748508745527!5m2!1sen!2set"
@@ -126,7 +126,7 @@ const Service = () => {
                             referrerPolicy="no-referrer-when-downgrade"
                         ></iframe>
                     </div>
-                </div>
+                </div> */}
             </Flex>
         </Element>
     );
