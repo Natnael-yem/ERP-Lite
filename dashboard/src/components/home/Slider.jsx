@@ -19,7 +19,7 @@ const Silder = () => {
         navigate('/login');
     }
     const handleRegister = () => {
-        navigate('/register');
+        window.location.href = '/dashboard/register'
     }
 
     const LangSelect = localStorage.getItem('Language');

@@ -12,7 +12,7 @@ import English from '../../data/English.json';
 const Footer = () => {
     const navigate = useNavigate();
     const handleRegister = () => {
-        navigate('/register')
+        navigate('/dashboard/register')
     }
     const LangSelect = localStorage.getItem('Language');
     const Language = LangSelect === 'አማርኛ' ? Amharic.amharic : English.english;
@@ -37,12 +37,12 @@ const Footer = () => {
                 <Flex className=" lg:flex-row flex-col z-40 items-center justify-around   w-[100%]  pt-10">
                     <Flex className="flex-col space-y-7">
                         <Flex className='items-center flex-col mt-10'>
-                            <img src="/assets/landing/dashboard/gubaw2.png" alt="logo" className='h-[2rem] ' />
-                            <p className="text-white text-[1.5rem] font-semibold">{Language?.title}</p>
+                            <img src="/assets/landing/dashboard/logos.png" alt="logo" className='h-[2rem] ' />
+                            {/* <p className="text-white text-[1.5rem] font-semibold">{Language?.title}</p> */}
                             {/* <p className="text-white text-[1.2rem] ">{Language?.subTitle}</p> */}
                         </Flex>
                         <Flex className="items-center text-center flex-col text-white">
-                            <p className="">{Language?.footerLocationTitle}</p>
+                            {/* <p className="">{Language?.footerLocationTitle}</p> */}
                             <p className="">{Language?.footerLocationSubTitle}</p>
                         </Flex>
                         <Flex className="space-x-4">
@@ -59,11 +59,11 @@ const Footer = () => {
                             <Flex className="flex-col sm:space-x-4">
                                 <p className="sm:text-[1rem] text-gray-400">{Language?.register}</p>
                                 <Flex className="flex-col space-y-3">
-                                    <p className="hover:text-[#FA9419]">catbureau73@gmail.com</p>
+                                    <p className="hover:text-[#FA9419]">994@ethioet.et</p>
                                 </Flex>
                             </Flex>
                             <Flex className="flex-col sm:space-x-4">
-                                <p className="sm:text-[1rem] text-gray-400">{Language?.phone}</p>
+                                <p className="sm:text-[1rem] text-gray-400">251-994 or +251-980</p>
                                 <Flex className="flex-col space-y-3">
                                     <p>+251 111 12 64 05</p>
                                 </Flex>

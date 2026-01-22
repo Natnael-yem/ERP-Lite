@@ -15,7 +15,7 @@ const Navbar = ({ setLang, lang }) => {
      const [nav, setNav] = useState(Language?.navbar[0]?.name || 'Home');
     const navigate = useNavigate();
     const handleNav = () => {
-        navigate('/login');
+         window.location.href = '/dashboard/login';
     };
     const handleMenu = () => {
         setMenu(!menu);
